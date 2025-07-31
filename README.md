@@ -9,7 +9,7 @@ This project demonstrates how to use ROS2 and Turtlesim to draw a straight white
 - Controlled the turtle using keyboard input
 - **Drew a clear white straight line** as shown in the screenshot
 
-![Final Result](turtle-straight-line.png)
+![Final Result](https://github.com/itsabalkhail/ROS2-Turtlesim-Straight-Line-Drawing-Project/blob/main/Screenshot%202025-07-31%20201635.png?raw=true)
 
 ## Prerequisites
 
